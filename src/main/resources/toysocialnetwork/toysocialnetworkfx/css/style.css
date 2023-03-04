@@ -1,0 +1,7 @@
+.custom-list-cell:odd {
+    -fx-background: -fx-control-inner-background;
+}
+
+.date-text {
+    -fx-fill: derive(-fx-control-inner-background, -30%);
+}

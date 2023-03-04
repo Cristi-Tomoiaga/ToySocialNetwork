@@ -1,0 +1,16 @@
+module:toysocialnetwork.toysocialnetworkfx
+toysocialnetwork.toysocialnetworkfx
+toysocialnetwork.toysocialnetworkfx.config
+toysocialnetwork.toysocialnetworkfx.controller
+toysocialnetwork.toysocialnetworkfx.domain
+toysocialnetwork.toysocialnetworkfx.domain.dto
+toysocialnetwork.toysocialnetworkfx.domain.validators
+toysocialnetwork.toysocialnetworkfx.repository
+toysocialnetwork.toysocialnetworkfx.repository.database
+toysocialnetwork.toysocialnetworkfx.repository.file
+toysocialnetwork.toysocialnetworkfx.repository.memory
+toysocialnetwork.toysocialnetworkfx.service
+toysocialnetwork.toysocialnetworkfx.service.graph
+toysocialnetwork.toysocialnetworkfx.ui
+toysocialnetwork.toysocialnetworkfx.utils
+toysocialnetwork.toysocialnetworkfx.utils.observer
